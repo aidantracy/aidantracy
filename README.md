@@ -1,4 +1,6 @@
 ### Hi there 👋
+## My name is Aidan Tracy and I am a transfer student from CWI.
+## I have already completed one career in the finance industry and I am making a switch to the tech field to be a software engineer. 
 
 <!--
 **aidantracy/aidantracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
